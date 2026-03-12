@@ -9,6 +9,6 @@ services:
       - key: NODE_ENV
         value: production
       - key: PORT
-        value: 5000
+        value: 1000
       - key: MONGODB_URI
         value: mongodb+srv://Aditya:ridhima0202@cluster0.keo36br.mongodb.net/?appName=Cluster0

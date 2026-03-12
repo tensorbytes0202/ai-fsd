@@ -11,4 +11,4 @@ services:
       - key: PORT
         value: 5000
       - key: MONGODB_URI
-        sync: false
+        value: mongodb+srv://Aditya:ridhima0202@cluster0.keo36br.mongodb.net/?appName=Cluster0
